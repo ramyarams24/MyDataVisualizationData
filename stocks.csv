@@ -1,6 +1,6 @@
 open_price,close_price,high_price,low_price,stock_type
-87.6,100.3,92.5,85.4,Healthcare
-72.8,99.1,77.0,71.2,Tech
-82.2,99.5,100.0,94.0,Tech
-80.7,90.1,72.3,67.8,Healthcare
-99.8,103.2,106.0,98.5,Tech
+91.2,92.3,92.5,85.4,Healthcare
+91.5,99.1,77.0,71.2,Tech
+92.2,91.5,100.0,94.0,Tech
+92.7,91.1,72.3,67.8,Healthcare
+92.8,93.2,106.0,98.5,Tech
